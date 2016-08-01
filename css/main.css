@@ -1,0 +1,71 @@
+#menu{/*MENU DE INICIO*/
+	margin:35px 0px 10px 0px;
+	padding: 0px 110px;
+}
+.menu{
+	color:black;
+}
+#fondo{/*IMAGEN DE FONDO*/
+	background-image: url("../images/background.jpg");
+	background-size: 100% 100% ;
+	height: 450px;
+}
+.name{
+	padding: 35px; 
+}
+h1{/*MI NOMBRE*/
+	color:#FFFFFF;
+	font-size: 40px;
+
+}
+h3{
+	color:#FFFFFF;
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+}
+p{
+	color:black;
+	font-family: 'Oswald' ;
+}
+h2,h4{
+	text-align: center;
+	color:#AE1890;
+	font-family: 'Lobster', cursive;
+
+}
+.logo{
+	margin: 20px 0px 20px 420px;
+}
+article{
+	background-color: #EEE5EC;
+}
+.yo{
+	padding-top: 30px;
+}
+#img1{
+	width: 150px;
+	height:150px;
+	margin-bottom: 60px;
+}
+.fav{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#img{
+	padding: 0px 120px;
+}
+.img{
+	border-radius: 100px;
+	width: 150px;
+	height:150px;
+}
+footer{
+	background-color: #C1B8BF;
+}
+.contacto{
+	padding: 60px 350px;
+}
+.redes{
+	width: 80px;
+	height:80px;
+}
